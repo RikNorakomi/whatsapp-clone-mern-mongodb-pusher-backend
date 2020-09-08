@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-clone-mern-backend",
+  "version": "1.0.0",
+  "description": "backend for whatsapp react js clone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "rik van velzen",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "pusher": "^3.0.1"
+  }
+}
